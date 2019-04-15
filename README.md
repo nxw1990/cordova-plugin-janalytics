@@ -4,16 +4,10 @@
 
 ## Install
 
-- 通过 cordova plugin 安装，要求 Cordova CLI 5.0+：
-
-  ```shell
-  cordova plugin add cordova-plugin-janalytics --variable APP_KEY=极光appKey
-  ```
-
 - 或直接通过 url 安装：
 
   ```shell
-  cordova plugin add https://github.com/jpush/cordova-plugin-janalytics --variable APP_KEY=极光appKey
+  cordova plugin add https://github.com/nxw1990/cordova-plugin-janalytics --variable APP_KEY=极光appKey
   ```
 
 - 或下载到本地安装：
