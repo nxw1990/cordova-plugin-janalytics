@@ -4,7 +4,7 @@
 
 ## Install
 
-- 或直接通过 url 安装：
+- 直接通过 url 安装：
 
   ```shell
   cordova plugin add https://github.com/nxw1990/cordova-plugin-janalytics --variable APP_KEY=极光appKey
